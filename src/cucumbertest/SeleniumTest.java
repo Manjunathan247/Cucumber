@@ -18,7 +18,7 @@ public class SeleniumTest {
 		 
         driver = new FirefoxDriver();
  
-        //Set Implicit wait
+        //St Implicit wait
  
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
  
